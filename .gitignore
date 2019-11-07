@@ -2,3 +2,5 @@ additional_x_files_2EHFvuq/
 x_train.csv
 y_train.csv
 x_test.csv
+.ipynb_checkpoints/
+
